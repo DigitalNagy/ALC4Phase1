@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="my_name">Eslam Nagy</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Egypt</string>
+    <string name="email">Email: Eslam2dayT2@gmail.com</string>
+    <string name="phone">Phone Number: 201098603000</string>
+    <string name="slack_name">Slack Username: \@MrAndroid</string>
+    <string name="image_description">profile image</string>
+    <string name="todo">TODO</string>
+</resources>
